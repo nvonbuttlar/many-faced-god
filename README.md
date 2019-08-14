@@ -34,5 +34,5 @@ Things to think about:
 
 ## Getting Started
 
-- `npm i` on both `/server` and `/client` to install dependancies
+- `npm i` on both `/server` and `/client` to install dependencies
 - using two terminals `npm start` to run both server and client
