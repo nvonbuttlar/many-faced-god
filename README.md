@@ -31,3 +31,8 @@ Things to think about:
 ![](/mockups/1.png)
 ![](/mockups/2.png)
 ![](/mockups/3.png)
+
+## Getting Started
+
+- `npm i` on both `/server` and `/client` to install dependencies
+- using two terminals `npm start` to run both server and client
