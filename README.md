@@ -25,3 +25,9 @@ Things to think about:
 - the image manipulation could be done on the front end OR the back end! We'll have to decide
 - for the AI faces we could have a bunch of pre-generated faces, or we could generate the faces on the fly
 - fun! we could even use the face that we're trying to replace to generate a new face HAHAHHAAHA that would be crazy
+
+## Mockups
+
+![](/mockups/1.png)
+![](/mockups/2.png)
+![](/mockups/3.png)
