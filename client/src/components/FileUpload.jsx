@@ -16,12 +16,12 @@ class FileUpload extends React.Component {
 
     const data = new FormData();
     data.append('file', this.uploadInput.files[0]);
-    fetch('http://192.168.0.107:3000/upload', {
+    fetch('http://localhost:3001/upload', {
       method: 'POST',
       body: data,
     }).then((response) => {
       response.json().then((body) => {
-        this.setState({ imageURL: `http://192.168.0.107:3000/${body.file}` });
+        this.setState({ imageURL: `http://localhost:3001/${body.file}` });
       });
     });
   }
